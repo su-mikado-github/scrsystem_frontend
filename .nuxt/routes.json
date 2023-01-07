@@ -1,20 +1,51 @@
 [
   {
-    "name": "inspire",
-    "path": "/inspire",
-    "component": "/usr/src/app/pages/inspire.vue",
-    "chunkName": "pages/inspire"
+    "name": "abort",
+    "path": "/abort",
+    "component": "/usr/src/app/pages/abort.vue",
+    "chunkName": "pages/abort",
+    "_name": "_68881e90"
   },
   {
-    "name": "test",
-    "path": "/test",
-    "component": "/usr/src/app/pages/test.vue",
-    "chunkName": "pages/test"
+    "name": "checkin",
+    "path": "/checkin",
+    "component": "/usr/src/app/pages/checkin.vue",
+    "chunkName": "pages/checkin",
+    "_name": "_1cb819e6"
+  },
+  {
+    "name": "dish_menu",
+    "path": "/dish_menu",
+    "component": "/usr/src/app/pages/dish_menu.vue",
+    "chunkName": "pages/dish_menu",
+    "_name": "_35d88e44"
+  },
+  {
+    "name": "mypage",
+    "path": "/mypage",
+    "component": "/usr/src/app/pages/mypage.vue",
+    "chunkName": "pages/mypage",
+    "_name": "_3f618f8b"
+  },
+  {
+    "name": "reserve",
+    "path": "/reserve",
+    "component": "/usr/src/app/pages/reserve.vue",
+    "chunkName": "pages/reserve",
+    "_name": "_41aa501c"
+  },
+  {
+    "name": "reserve_change",
+    "path": "/reserve_change",
+    "component": "/usr/src/app/pages/reserve_change.vue",
+    "chunkName": "pages/reserve_change",
+    "_name": "_6530ac3a"
   },
   {
     "name": "index",
     "path": "/",
     "component": "/usr/src/app/pages/index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_e542f99c"
   }
 ]

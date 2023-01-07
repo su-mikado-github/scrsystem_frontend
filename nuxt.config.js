@@ -6,8 +6,8 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    titleTemplate: '%s - frontend',
-    title: 'frontend',
+    titleTemplate: '[CLUBHOUSE提供] %s',
+    title: '食堂予約システム（仮）',
     htmlAttrs: {
       lang: 'en'
     },
